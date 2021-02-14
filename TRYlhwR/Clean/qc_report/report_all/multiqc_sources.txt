@@ -1,0 +1,100 @@
+Module	Section	Sample Name	Source
+fastp	all_sections	V350002156_L1_TRYlhwR021527-530_1	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/10-Amp/res/10-Amp/fastp/V350002156_L1_TRYlhwR021527-530__fastp.json
+fastp	all_sections	V350002156_L1_TRYlhwR021518-521_1	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/1-Amp/res/1-Amp/fastp/V350002156_L1_TRYlhwR021518-521__fastp.json
+fastp	all_sections	V350002156_L1_TRYlhwR021519-522_1	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/2-Amp/res/2-Amp/fastp/V350002156_L1_TRYlhwR021519-522__fastp.json
+fastp	all_sections	V350002156_L1_TRYlhwR021520-523_1	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/3-Amp/res/3-Amp/fastp/V350002156_L1_TRYlhwR021520-523__fastp.json
+fastp	all_sections	V350002156_L1_TRYlhwR021522-525_1	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/5-Amp/res/5-Amp/fastp/V350002156_L1_TRYlhwR021522-525__fastp.json
+fastp	all_sections	V350002156_L1_TRYlhwR021523-526_1	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/6-Amp/res/6-Amp/fastp/V350002156_L1_TRYlhwR021523-526__fastp.json
+fastp	all_sections	V350002156_L1_TRYlhwR021524-527_1	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/7-Amp/res/7-Amp/fastp/V350002156_L1_TRYlhwR021524-527__fastp.json
+fastp	all_sections	V350002156_L1_TRYlhwR021525-528_1	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/8-Amp/res/8-Amp/fastp/V350002156_L1_TRYlhwR021525-528__fastp.json
+fastp	all_sections	V350002156_L1_TRYlhwR021526-529_1	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/9-Amp/res/9-Amp/fastp/V350002156_L1_TRYlhwR021526-529__fastp.json
+Bowtie 2	all_sections	10-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/10-Amp/res/10-Amp/bowtie/10-Amp.log
+Bowtie 2	all_sections	1-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/1-Amp/res/1-Amp/bowtie/1-Amp.log
+Bowtie 2	all_sections	2-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/2-Amp/res/2-Amp/bowtie/2-Amp.log
+Bowtie 2	all_sections	3-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/3-Amp/res/3-Amp/bowtie/3-Amp.log
+Bowtie 2	all_sections	5-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/5-Amp/res/5-Amp/bowtie/5-Amp.log
+Bowtie 2	all_sections	6-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/6-Amp/res/6-Amp/bowtie/6-Amp.log
+Bowtie 2	all_sections	7-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/7-Amp/res/7-Amp/bowtie/7-Amp.log
+Bowtie 2	all_sections	8-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/8-Amp/res/8-Amp/bowtie/8-Amp.log
+Bowtie 2	all_sections	9-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/9-Amp/res/9-Amp/bowtie/9-Amp.log
+Picard	DuplicationMetrics	V350002156_L1_TRYlhwR021527-530	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/10-Amp/res/10-Amp/markduplicates/marked_dup_metrics.txt
+Picard	DuplicationMetrics	V350002156_L1_TRYlhwR021518-521	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/1-Amp/res/1-Amp/markduplicates/marked_dup_metrics.txt
+Picard	DuplicationMetrics	V350002156_L1_TRYlhwR021519-522	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/2-Amp/res/2-Amp/markduplicates/marked_dup_metrics.txt
+Picard	DuplicationMetrics	V350002156_L1_TRYlhwR021520-523	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/3-Amp/res/3-Amp/markduplicates/marked_dup_metrics.txt
+Picard	DuplicationMetrics	V350002156_L1_TRYlhwR021522-525	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/5-Amp/res/5-Amp/markduplicates/marked_dup_metrics.txt
+Picard	DuplicationMetrics	V350002156_L1_TRYlhwR021523-526	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/6-Amp/res/6-Amp/markduplicates/marked_dup_metrics.txt
+Picard	DuplicationMetrics	V350002156_L1_TRYlhwR021524-527	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/7-Amp/res/7-Amp/markduplicates/marked_dup_metrics.txt
+Picard	DuplicationMetrics	V350002156_L1_TRYlhwR021525-528	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/8-Amp/res/8-Amp/markduplicates/marked_dup_metrics.txt
+Picard	DuplicationMetrics	V350002156_L1_TRYlhwR021526-529	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/9-Amp/res/9-Amp/markduplicates/marked_dup_metrics.txt
+FastQ Screen	all_sections	V350002156_L1_TRYlhwR021527-530	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/10-Amp/res/10-Amp/fastqs/V350002156_L1_TRYlhwR021527-530_.sorted_unmap_all_2_screen.txt
+FastQ Screen	all_sections	V350002156_L1_TRYlhwR021518-521	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/1-Amp/res/1-Amp/fastqs/V350002156_L1_TRYlhwR021518-521_.sorted_unmap_all_1_screen.txt
+FastQ Screen	all_sections	V350002156_L1_TRYlhwR021519-522	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/2-Amp/res/2-Amp/fastqs/V350002156_L1_TRYlhwR021519-522_.sorted_unmap_all_2_screen.txt
+FastQ Screen	all_sections	V350002156_L1_TRYlhwR021520-523	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/3-Amp/res/3-Amp/fastqs/V350002156_L1_TRYlhwR021520-523_.sorted_unmap_all_2_screen.txt
+FastQ Screen	all_sections	V350002156_L1_TRYlhwR021522-525	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/5-Amp/res/5-Amp/fastqs/V350002156_L1_TRYlhwR021522-525_.sorted_unmap_all_1_screen.txt
+FastQ Screen	all_sections	V350002156_L1_TRYlhwR021523-526	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/6-Amp/res/6-Amp/fastqs/V350002156_L1_TRYlhwR021523-526_.sorted_unmap_all_2_screen.txt
+FastQ Screen	all_sections	V350002156_L1_TRYlhwR021524-527	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/7-Amp/res/7-Amp/fastqs/V350002156_L1_TRYlhwR021524-527_.sorted_unmap_all_1_screen.txt
+FastQ Screen	all_sections	V350002156_L1_TRYlhwR021525-528	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/8-Amp/res/8-Amp/fastqs/V350002156_L1_TRYlhwR021525-528_.sorted_unmap_all_2_screen.txt
+FastQ Screen	all_sections	V350002156_L1_TRYlhwR021526-529	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/9-Amp/res/9-Amp/fastqs/V350002156_L1_TRYlhwR021526-529_.sorted_unmap_all_2_screen.txt
+QualiMap	genome_results	V350002156_L1_TRYlhwR021527-530	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/10-Amp/res/10-Amp/qualimap/genome_results.txt
+QualiMap	genome_results	V350002156_L1_TRYlhwR021518-521	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/1-Amp/res/1-Amp/qualimap/genome_results.txt
+QualiMap	genome_results	V350002156_L1_TRYlhwR021519-522	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/2-Amp/res/2-Amp/qualimap/genome_results.txt
+QualiMap	genome_results	V350002156_L1_TRYlhwR021520-523	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/3-Amp/res/3-Amp/qualimap/genome_results.txt
+QualiMap	genome_results	V350002156_L1_TRYlhwR021522-525	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/5-Amp/res/5-Amp/qualimap/genome_results.txt
+QualiMap	genome_results	V350002156_L1_TRYlhwR021523-526	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/6-Amp/res/6-Amp/qualimap/genome_results.txt
+QualiMap	genome_results	V350002156_L1_TRYlhwR021524-527	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/7-Amp/res/7-Amp/qualimap/genome_results.txt
+QualiMap	genome_results	V350002156_L1_TRYlhwR021525-528	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/8-Amp/res/8-Amp/qualimap/genome_results.txt
+QualiMap	genome_results	V350002156_L1_TRYlhwR021526-529	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/9-Amp/res/9-Amp/qualimap/genome_results.txt
+QualiMap	coverage_histogram	10-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/10-Amp/res/10-Amp/qualimap/10-Amp/raw_data_qualimapReport/coverage_histogram.txt
+QualiMap	coverage_histogram	1-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/1-Amp/res/1-Amp/qualimap/1-Amp/raw_data_qualimapReport/coverage_histogram.txt
+QualiMap	coverage_histogram	2-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/2-Amp/res/2-Amp/qualimap/2-Amp/raw_data_qualimapReport/coverage_histogram.txt
+QualiMap	coverage_histogram	3-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/3-Amp/res/3-Amp/qualimap/3-Amp/raw_data_qualimapReport/coverage_histogram.txt
+QualiMap	coverage_histogram	5-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/5-Amp/res/5-Amp/qualimap/5-Amp/raw_data_qualimapReport/coverage_histogram.txt
+QualiMap	coverage_histogram	6-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/6-Amp/res/6-Amp/qualimap/6-Amp/raw_data_qualimapReport/coverage_histogram.txt
+QualiMap	coverage_histogram	7-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/7-Amp/res/7-Amp/qualimap/7-Amp/raw_data_qualimapReport/coverage_histogram.txt
+QualiMap	coverage_histogram	8-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/8-Amp/res/8-Amp/qualimap/8-Amp/raw_data_qualimapReport/coverage_histogram.txt
+QualiMap	coverage_histogram	9-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/9-Amp/res/9-Amp/qualimap/9-Amp/raw_data_qualimapReport/coverage_histogram.txt
+QualiMap	insert_size_histogram	10-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/10-Amp/res/10-Amp/qualimap/10-Amp/raw_data_qualimapReport/insert_size_histogram.txt
+QualiMap	insert_size_histogram	1-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/1-Amp/res/1-Amp/qualimap/1-Amp/raw_data_qualimapReport/insert_size_histogram.txt
+QualiMap	insert_size_histogram	2-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/2-Amp/res/2-Amp/qualimap/2-Amp/raw_data_qualimapReport/insert_size_histogram.txt
+QualiMap	insert_size_histogram	3-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/3-Amp/res/3-Amp/qualimap/3-Amp/raw_data_qualimapReport/insert_size_histogram.txt
+QualiMap	insert_size_histogram	5-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/5-Amp/res/5-Amp/qualimap/5-Amp/raw_data_qualimapReport/insert_size_histogram.txt
+QualiMap	insert_size_histogram	6-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/6-Amp/res/6-Amp/qualimap/6-Amp/raw_data_qualimapReport/insert_size_histogram.txt
+QualiMap	insert_size_histogram	7-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/7-Amp/res/7-Amp/qualimap/7-Amp/raw_data_qualimapReport/insert_size_histogram.txt
+QualiMap	insert_size_histogram	8-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/8-Amp/res/8-Amp/qualimap/8-Amp/raw_data_qualimapReport/insert_size_histogram.txt
+QualiMap	insert_size_histogram	9-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/9-Amp/res/9-Amp/qualimap/9-Amp/raw_data_qualimapReport/insert_size_histogram.txt
+QualiMap	mapped_gc_distribution	10-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/10-Amp/res/10-Amp/qualimap/10-Amp/raw_data_qualimapReport/mapped_reads_gc-content_distribution.txt
+QualiMap	mapped_gc_distribution	1-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/1-Amp/res/1-Amp/qualimap/1-Amp/raw_data_qualimapReport/mapped_reads_gc-content_distribution.txt
+QualiMap	mapped_gc_distribution	2-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/2-Amp/res/2-Amp/qualimap/2-Amp/raw_data_qualimapReport/mapped_reads_gc-content_distribution.txt
+QualiMap	mapped_gc_distribution	3-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/3-Amp/res/3-Amp/qualimap/3-Amp/raw_data_qualimapReport/mapped_reads_gc-content_distribution.txt
+QualiMap	mapped_gc_distribution	5-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/5-Amp/res/5-Amp/qualimap/5-Amp/raw_data_qualimapReport/mapped_reads_gc-content_distribution.txt
+QualiMap	mapped_gc_distribution	6-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/6-Amp/res/6-Amp/qualimap/6-Amp/raw_data_qualimapReport/mapped_reads_gc-content_distribution.txt
+QualiMap	mapped_gc_distribution	7-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/7-Amp/res/7-Amp/qualimap/7-Amp/raw_data_qualimapReport/mapped_reads_gc-content_distribution.txt
+QualiMap	mapped_gc_distribution	8-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/8-Amp/res/8-Amp/qualimap/8-Amp/raw_data_qualimapReport/mapped_reads_gc-content_distribution.txt
+QualiMap	mapped_gc_distribution	9-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/9-Amp/res/9-Amp/qualimap/9-Amp/raw_data_qualimapReport/mapped_reads_gc-content_distribution.txt
+QualiMap	rna_genome_results	V350002156_L1_TRYlhwR021527-530	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/10-Amp/res/10-Amp/qualimap/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	V350002156_L1_TRYlhwR021518-521	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/1-Amp/res/1-Amp/qualimap/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	V350002156_L1_TRYlhwR021519-522	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/2-Amp/res/2-Amp/qualimap/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	V350002156_L1_TRYlhwR021520-523	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/3-Amp/res/3-Amp/qualimap/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	V350002156_L1_TRYlhwR021522-525	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/5-Amp/res/5-Amp/qualimap/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	V350002156_L1_TRYlhwR021523-526	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/6-Amp/res/6-Amp/qualimap/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	V350002156_L1_TRYlhwR021524-527	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/7-Amp/res/7-Amp/qualimap/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	V350002156_L1_TRYlhwR021525-528	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/8-Amp/res/8-Amp/qualimap/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	V350002156_L1_TRYlhwR021526-529	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/9-Amp/res/9-Amp/qualimap/rnaseq_qc_results.txt
+QualiMap	rna_coverage_histogram	10-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/10-Amp/res/10-Amp/qualimap/10-Amp/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	1-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/1-Amp/res/1-Amp/qualimap/1-Amp/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	2-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/2-Amp/res/2-Amp/qualimap/2-Amp/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	3-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/3-Amp/res/3-Amp/qualimap/3-Amp/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	5-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/5-Amp/res/5-Amp/qualimap/5-Amp/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	6-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/6-Amp/res/6-Amp/qualimap/6-Amp/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	7-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/7-Amp/res/7-Amp/qualimap/7-Amp/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	8-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/8-Amp/res/8-Amp/qualimap/8-Amp/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	9-Amp	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/9-Amp/res/9-Amp/qualimap/9-Amp/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+featureCounts	all_sections	V350002156_L1_TRYlhwR021527-530	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/10-Amp/res/10-Amp/featureCounts/counts.txt.summary
+featureCounts	all_sections	V350002156_L1_TRYlhwR021518-521	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/1-Amp/res/1-Amp/featureCounts/counts.txt.summary
+featureCounts	all_sections	V350002156_L1_TRYlhwR021519-522	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/2-Amp/res/2-Amp/featureCounts/counts.txt.summary
+featureCounts	all_sections	V350002156_L1_TRYlhwR021520-523	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/3-Amp/res/3-Amp/featureCounts/counts.txt.summary
+featureCounts	all_sections	V350002156_L1_TRYlhwR021522-525	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/5-Amp/res/5-Amp/featureCounts/counts.txt.summary
+featureCounts	all_sections	V350002156_L1_TRYlhwR021523-526	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/6-Amp/res/6-Amp/featureCounts/counts.txt.summary
+featureCounts	all_sections	V350002156_L1_TRYlhwR021524-527	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/7-Amp/res/7-Amp/featureCounts/counts.txt.summary
+featureCounts	all_sections	V350002156_L1_TRYlhwR021525-528	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/8-Amp/res/8-Amp/featureCounts/counts.txt.summary
+featureCounts	all_sections	V350002156_L1_TRYlhwR021526-529	/cluster/majf_lab/mtinti/simone_amplicon/TRYlhwR/Clean/9-Amp/res/9-Amp/featureCounts/counts.txt.summary
